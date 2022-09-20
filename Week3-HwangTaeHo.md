@@ -8,8 +8,8 @@ Test-2 Flower FrameWork Test
 
 Test-3 Flower FrameWork Test ; 4Client
 
-![image](https://user-images.githubusercontent.com/82348104/191180252-aa4c34e5-c7b9-491e-9038-9da09076a902.png)
-ㅇ
+![image](https://user-images.githubusercontent.com/82348104/191182409-6d7a8d80-8fed-463b-81b8-0acb0e013a48.png)
+
 
 Test진행 의견 ;
 프로그램 테스트를 통하여 FL에 대한 실제적인 구현을 해보았습니다
